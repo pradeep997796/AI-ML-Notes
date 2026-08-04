@@ -1,4 +1,4 @@
-Generative AI and LLM Interview Question with Answer
+Generative AI and LLM Interview Question with Answer.
 Last Updated :
 18 Jul, 2026
 Generative AI and Large Language Models (LLMs) are transforming the way machines understand, create and interact with human language, images and ideas. From powering conversational agents to automating creative and analytical tasks, these technologies represent the cutting edge of modern AI.
