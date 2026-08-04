@@ -1,7 +1,5 @@
 Generative AI and LLM Interview Question with Answer.
-Last Updated :
-18 Jul, 2026
-Generative AI and Large Language Models (LLMs) are transforming the way machines understand, create and interact with human language, images and ideas. From powering conversational agents to automating creative and analytical tasks, these technologies represent the cutting edge of modern AI.
+ 
 
 1. What is Generative AI and how does its architecture work?
 Generative AI (Gen AI) refers to a category of artificial intelligence models that can create new data such as text, images, audio or code, instead of just analyzing existing data. These models learn patterns and structures from large datasets and then use this knowledge to generate outputs that resemble human-created content.
